@@ -21,6 +21,7 @@ public class Main {
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.MINUTES);
         //driver.get("https://translate.google.com/");
         //vsdaf
+        //hgsf
     }
 
     @BeforeEach // like @Before
