@@ -20,7 +20,7 @@ public class Main {
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.MINUTES);
         //driver.get("https://translate.google.com/");
-        //vsdaf
+        //vsdafh.v
         //hgsf
     }
 
